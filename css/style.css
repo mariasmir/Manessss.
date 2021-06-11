@@ -1,0 +1,194 @@
+/* body{
+  background-image: url(https://mir-s3-cdn-cf.behance.net/projects/original/da70ff116171345.Y3JvcCwzMzY2LDI2MzMsMCww.jpg);
+}
+li{
+  display: inline-block;
+  padding: 20px 10px;
+}
+a{
+  background-color:Black;
+  border: 1px solid Black;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoratin: none;
+  color: White;
+
+}
+h2{
+  color: red;
+  font-size: 35px
+}
+a:hover{
+  background-color:Black;
+  border: 1px solid:Black;
+  border-radius: 5px;
+  font-size: 30px;
+  padding: 5px 5px;
+  text-decoratin: none;
+  color:White ;
+
+}
+.posts{
+  background-color:none;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 10px 10px;
+  text-decoratin: none;
+  color: red;
+}
+.button{
+  background-color:red;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 10px 25px;
+  text-decoratin: none;
+  color: white;
+  width: 105px;
+  margin: 5px 150px;
+}
+p{
+  color:red;
+  font-size: 25px
+}
+header{
+  color: Red;
+  font-size: 25px
+} */
+body{background-image: url(https://mir-s3-cdn-cf.behance.net/projects/original/da70ff116171345.Y3JvcCwzMzY2LDI2MzMsMCww.jpg);}
+ li{
+  float: left;
+}
+p{
+font-size:20px;
+color: PaleGreen;
+}
+h2, h3, h4, h5, h6{
+font-size:30px;
+color: red;
+}
+ header{
+  color: red;
+}
+main{
+  color: red
+}
+footer{
+  color: white
+}
+.posts{
+  background-color:none;
+  border:2px ;
+  border-radius: 5px;
+  font-size:16px;
+  padding: 10px 25px;
+  text-decoration: none;
+  color: red;
+}
+.button{
+  background-color:red;
+  border:2px ;
+  border-radius: 5px;
+  font-size:12px;
+  padding: 10px 25px;
+  text-decoration: none;
+  color: white;
+  width: 100px;
+  margin: 5px 150px;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1B2536;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #7DABF5;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 180px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+img{
+  max-width: 160px;
+  width: 100%;
+  max-height: 200px;
+  height: 100%;
+
+}
+.sale < p{
+  float: left;
+}
+.sale{
+  border: solid 1px;
+  max-width: 200px;
+  width: 100%;
+}
+.slider {
+	max-width: 1280px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.slick-arrow {
+	z-index: 2;
+}
+.posts{
+  background-color:black;
+  border:2px ;
+  border-radius: 5px;
+  font-size:16px;
+  padding: 10px 25px;
+  text-decoration: none;
+  color: black;
+}
+.button{
+  background-color:red;
+  border:2px ;
+  border-radius: 5px;
+  font-size:12px;
+  padding: 10px 25px;
+  text-decoration: none;
+  color: white;
+  width: 100px;
+  margin: 5px 150px;
